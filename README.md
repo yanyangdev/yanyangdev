@@ -10,7 +10,7 @@ Zusätzlich habe ich mir **TypeScript** und **Java** im Selbststudium angeeignet
 ## 🛠 Tech Stack
 
 **Frontend**
-- JavaScript (ES6+)
+- JavaScript 
 - TypeScript
 - React
 
@@ -20,7 +20,7 @@ Zusätzlich habe ich mir **TypeScript** und **Java** im Selbststudium angeeignet
 
 **Datenbanken**
 - MongoDB
-- SQL / PostgreSQL (Grundkenntnisse)
+- SQL / PostgreSQL 
 
 **Weitere Kenntnisse**
 - Java (Selbststudium)
@@ -45,18 +45,5 @@ und möchte mich langfristig im Bereich **Web- und Softwareentwicklung** weitere
 
 ---
 
-## 📌 Ausgewählte Projekte
-
-⬇️ Schau dir gern meine **gepinnnten Repositories** unten an  
-(dort findest du meine wichtigsten Full-Stack- und Web-Projekte).
-
----
-
-## 📫 Kontakt
-
-- 💼 LinkedIn: *[Link zu deinem LinkedIn-Profil einfügen]*  
-- 📧 E-Mail: *[optional]*
-
----
 
 ⭐️ Vielen Dank für deinen Besuch auf meinem GitHub-Profil!
