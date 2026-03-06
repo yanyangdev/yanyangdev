@@ -1,49 +1,117 @@
 # 👋 Hi, ich bin Yan
 
-🚀 **Junior Full-Stack Entwicklerin (Web & Software)** mit Engineering-Background (Mechatronik).
+🚀 **Automation Engineer → Industrial Software Engineer**
 
-Ich habe ein **Full-Stack-Bootcamp bei der WBS Coding School** erfolgreich abgeschlossen und arbeite mit modernen Web-Technologien.  
-Zusätzlich habe ich mir **TypeScript** und **Java** im Selbststudium angeeignet und setze sie in eigenen Projekten ein.
+Ich verbinde **Automatisierungstechnik (SPS)** mit moderner Softwareentwicklung  
+und entwickle Systeme an der Schnittstelle zwischen **OT (Operational Technology) und IT**.
+
+Mein Fokus liegt auf **Industrial IoT, Edge Computing und skalierbaren Softwarearchitekturen**.
 
 ---
 
-## 🛠 Tech Stack
+# 🏭 Aktuelle Projekte
 
-**Frontend**
-- JavaScript 
-- TypeScript
-- React
+### Industrial Edge Data Platform
 
-**Backend**
+Simulation einer **Industrie-4.0 Architektur** zur Datenerfassung aus industriellen Anlagen.
+
+Architektur:
+```
+PLC (CODESYS)
+ ↓ OPC UA
+ Edge Service (Node.js / TypeScript)
+ ↓ MQTT
+ Backend Service
+ ↓
+ PostgreSQL
+ ↓
+ React Dashboard
+```
+
+Fokus:
+
+- OPC UA Industrial Communication
+- Edge Data Collection
+- Subscription-basierte Datenüberwachung
+- Reconnect- und Failover-Strategien
+- Health Monitoring & strukturierte Logs
+
+Technologien:
+
+CODESYS · Structured Text · OPC UA · Node.js · TypeScript · MQTT · PostgreSQL · React
+
+---
+
+# 🛠 Tech Stack
+
+### Industrial / Automation
+
+- SPS Programmierung (IEC 61131)
+- CODESYS
+- OPC UA
+- Industrial IoT
+
+---
+
+### Backend
+
 - Node.js
-- Express.js
-
-**Datenbanken**
-- MongoDB
-- SQL / PostgreSQL 
-
-**Weitere Kenntnisse**
-- Java (Selbststudium)
-- Git & GitHub
+- TypeScript
+- Java
 - REST APIs
 
 ---
 
-## 💡 Über mich
+### Frontend
 
-- Ingenieurin mit starkem technischem Verständnis und systematischem Denken  
-- Strukturierte, verantwortungsbewusste Arbeitsweise  
-- Teamplayerin mit hoher Lernbereitschaft und Eigeninitiative  
-- Begeistert von moderner Web- und Softwareentwicklung  
-
----
-
-## 🎯 Aktuelles Ziel
-
-Ich suche den **Berufseinstieg als Junior Full-Stack Entwicklerin (m/w/d)**  
-und möchte mich langfristig im Bereich **Web- und Softwareentwicklung** weiterentwickeln.
+- React
+- JavaScript
+- TypeScript
 
 ---
 
+### Datenbanken
 
-⭐️ Vielen Dank für deinen Besuch auf meinem GitHub-Profil!
+- PostgreSQL
+- MongoDB
+
+---
+
+### Dev Tools
+
+- Git
+- Docker
+- CI/CD
+
+---
+
+# 💡 Über mich
+
+Ich komme aus der **Automatisierungstechnik** und bringe ein starkes **Engineering Mindset** in die Softwareentwicklung ein.
+
+Meine Erfahrung aus der Industrie hilft mir dabei:
+
+- komplexe Systeme zu analysieren
+- robuste Architekturen zu entwerfen
+- Fehler systematisch zu isolieren und zu beheben
+
+Ich arbeite besonders gerne an Projekten, die **Industrieanlagen mit moderner Software verbinden**.
+
+---
+
+# 🎯 Aktuelles Ziel
+
+Ich suche eine Position als
+
+**Industrial Software Engineer / Automation Software Engineer / IIoT Engineer**
+
+mit Fokus auf:
+
+- Industrial IoT
+- Edge Computing
+- Automatisierungssoftware
+- Datenplattformen für industrielle Systeme
+
+---
+
+⭐️ Danke für deinen Besuch auf meinem GitHub-Profil!
