@@ -1,35 +1,49 @@
-👋 Hi, ich bin Yan
-🚀 Junior Full-Stack Entwicklerin (Web & Software) mit Engineering-Background (Mechatronik).
+# 👋 Hi, ich bin Yan
 
-Ich habe ein Full-Stack-Bootcamp bei der WBS Coding School erfolgreich abgeschlossen und arbeite mit modernen Web-Technologien.
-Zusätzlich habe ich mir TypeScript und Java im Selbststudium angeeignet und setze sie in eigenen Projekten ein.
+🚀 **Junior Full-Stack Entwicklerin (Web & Software)** mit Engineering-Background (Mechatronik).
 
-🛠 Tech Stack
-Frontend
+Ich habe ein **Full-Stack-Bootcamp bei der WBS Coding School** erfolgreich abgeschlossen und arbeite mit modernen Web-Technologien.  
+Zusätzlich habe ich mir **TypeScript** und **Java** im Selbststudium angeeignet und setze sie in eigenen Projekten ein.
 
-JavaScript
-TypeScript
-React
-Backend
+---
 
-Node.js
-Express.js
-Datenbanken
+## 🛠 Tech Stack
 
-MongoDB
-SQL / PostgreSQL
-Weitere Kenntnisse
+**Frontend**
+- JavaScript 
+- TypeScript
+- React
 
-Java (Selbststudium)
-Git & GitHub
-REST APIs
-💡 Über mich
-Ingenieurin mit starkem technischem Verständnis und systematischem Denken
-Strukturierte, verantwortungsbewusste Arbeitsweise
-Teamplayerin mit hoher Lernbereitschaft und Eigeninitiative
-Begeistert von moderner Web- und Softwareentwicklung
-🎯 Aktuelles Ziel
-Ich suche den Berufseinstieg als Junior Full-Stack Entwicklerin (m/w/d)
-und möchte mich langfristig im Bereich Web- und Softwareentwicklung weiterentwickeln.
+**Backend**
+- Node.js
+- Express.js
+
+**Datenbanken**
+- MongoDB
+- SQL / PostgreSQL 
+
+**Weitere Kenntnisse**
+- Java (Selbststudium)
+- Git & GitHub
+- REST APIs
+
+---
+
+## 💡 Über mich
+
+- Ingenieurin mit starkem technischem Verständnis und systematischem Denken  
+- Strukturierte, verantwortungsbewusste Arbeitsweise  
+- Teamplayerin mit hoher Lernbereitschaft und Eigeninitiative  
+- Begeistert von moderner Web- und Softwareentwicklung  
+
+---
+
+## 🎯 Aktuelles Ziel
+
+Ich suche den **Berufseinstieg als Junior Full-Stack Entwicklerin (m/w/d)**  
+und möchte mich langfristig im Bereich **Web- und Softwareentwicklung** weiterentwickeln.
+
+---
+
 
 ⭐️ Vielen Dank für deinen Besuch auf meinem GitHub-Profil!
